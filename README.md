@@ -1,1 +1,2 @@
-# t-rex-semitermindo
+# juego-rex-casi-listo
+clase 13
